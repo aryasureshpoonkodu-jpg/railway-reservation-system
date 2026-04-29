@@ -1,3 +1,4 @@
+# Simple Railway Reservation System
 TOTAL_SEATS = 50
 available_seats = TOTAL_SEATS
 bookings = {}
